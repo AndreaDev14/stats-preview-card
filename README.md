@@ -19,7 +19,7 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [https://andreadev14.github.io/stats-preview-card/](https://andreadev14.github.io/stats-preview-card/)
 - Frontend Mentor - [@AndreaDev14](https://www.frontendmentor.io/profile/AndreaDev14)
 
 
