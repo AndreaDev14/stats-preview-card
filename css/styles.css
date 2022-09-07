@@ -67,25 +67,16 @@ p {
 img {
   max-width: 100%;
 }
-.card_picture {
-  background-color: var(--Soft-violet);
-  border-radius: 1rem 1rem 0 0;
-}
+
 picture img {
-  /* filter: grayscale(100%) brightness(50%) sepia(50%) hue-rotate(-100deg)
-    saturate(500%) contrast(1); */
+  filter: grayscale(100%) brightness(50%) sepia(50%) hue-rotate(-100deg)
+    saturate(500%) contrast(1);
   border-radius: 1rem 1rem 0 0;
 
-  mix-blend-mode: multiply;
-  opacity: 75%;
+  /* filter: opacity(.5) drop-shadow(0 0 0 #AA5BDB);  */
 }
 
 @media (min-width: 900px) {
-  .card_picture {
-    background-color: var(--Soft-violet);
-    border-radius: 0 1rem 1rem 0;
-    margin-bottom: 0;
-  }
   picture img {
     border-radius: 0 1rem 1rem 0;
 
