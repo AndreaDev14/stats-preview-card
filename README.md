@@ -3,8 +3,8 @@
 
 
 ### Screenshot
+![Captura de pantalla 2022-09-07 a las 9 52 38 a  m](https://user-images.githubusercontent.com/108431169/188883109-8ed87b98-c86a-47b7-be50-1cb7134172aa.png)
 
-![](./screenshot.jpg)
 
 
 ### Built with
